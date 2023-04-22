@@ -1,1 +1,4 @@
-# Personalized_financial_product_recommendation_project_using_machine_learning
+# 2023년 1학기 수학적알고리즘(캡스톤디자인)
+
+# 머신 러닝을 활용한 개인 맞춤형 금융상품 추천 프로젝트
+
